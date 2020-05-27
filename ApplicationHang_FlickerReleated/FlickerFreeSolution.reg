@@ -1,0 +1,10 @@
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control]
+"WaitToKillServiceTimeout"="5000"
+
+[HKEY_USERS\.DEFAULT\Control Panel\Desktop]
+"WaitToKillAppTimeout"="5000"
+"HungAppTimeout"="5000"
+
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"WaitToKillAppTimeout"="5000"
+"HungAppTimeout"="5000"
